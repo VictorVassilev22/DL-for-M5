@@ -1,2 +1,2 @@
 # M5Comp
-Time series forecasting for the M5 Competition.
+Deep Learning for Time series forecasting. Comparing LSTM models for M5 Walmart Competition.
